@@ -1,2 +1,2 @@
 # Librarie-project
-Para administración de bibliotecas
+Web application for library management
